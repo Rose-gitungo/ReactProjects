@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  padding:100px;
+  background-color:hotpink;
+  margin:70px;
+  width:70%;
+}
+h1{
+  color:white;
+}
+body{
+  background-color:pink;
+}
+.todo-input{
+  width: 75%;
+  height: 56px;
+  border-radius:8px;
+  position: relative;
+  margin-top:5px;
+}
+.todo-btn{
+padding:20px;
+background-color:pink;
+}
+.icon{
+  height:30px;
+  width:30px
+}
+.Todo {
+    display: flex;
+    align-items: center;
+    background-color:pink;
+    width:55%;
+    margin-left:150px;
+    margin-top:10px;
+    justify-content: space-between;
+    color:white;
+}
+.Todo p {
+    margin-right: 10px;
+}
+.completed {
+    text-decoration: line-through;
+}
+.TodoForm{
+
+}
